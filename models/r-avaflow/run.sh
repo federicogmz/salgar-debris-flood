@@ -1,0 +1,1 @@
+grass --text --tmp-location DEM_Salgar.tif --exec sh single.sh

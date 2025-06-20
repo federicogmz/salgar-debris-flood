@@ -1,0 +1,34 @@
+      1.0000   6000.0000    100.0000   0 0.45  0.0100000000  0.0000000000       0.00000   0   0   0   0   0
+ empieza conexones entre elementos
+ acaba conexiones entre elementos
+ empieza lectura contornos
+ boundary conditions in new format 1st time
+ end boundary conditions reading
+ comença procés contorns
+ boundary conditions in new format 2nd time
+ acaba lectura contorns
+ acaba procés contorns
+ acaba lectura cc internes
+ acaba lectura dades
+ inicializando calculo
+ calcula normals i pendents
+ classifica elements interiors secs i mojados
+ classifica elements interors mullables i no mullables
+ classifica contorns secs i mojados
+ moja entradas
+ allocata
+ moja entradas
+ Cuenta entradas de caudal total
+ Cuenta entradas de caudal total
+ Cuenta entradas de caudal total
+ Cuenta entradas de caudal total
+ para entradas de caudal dado
+ acaba inicialización
+ Punteros para aristas internas
+ Calculo de las aristas en contornos e interiores
+ Distance vector between nodes for each inner face
+ Distance from log-law nodes to wall
+ Fin topologia
+ creando archivos resultados
+ empieza calculo en el tiempo
+ END
